@@ -1,0 +1,4 @@
+IP_ADDRESS = 'XX.XX.XX.XX'
+DBNAME = 'postgres'
+USER = 'XXXXX'
+PASSWORD = 'XXXXX'
